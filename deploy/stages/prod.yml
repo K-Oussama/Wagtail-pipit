@@ -1,0 +1,8 @@
+webservers:
+  hosts:
+    prod1:
+      ansible_user: deploy
+      ansible_port: 22
+      ansible_host: SimpleBlog.com
+      domain: SimpleBlog.com
+      stage_name: prod

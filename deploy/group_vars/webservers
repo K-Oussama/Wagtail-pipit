@@ -1,0 +1,8 @@
+---
+python_version: python3
+ansistrano_deploy_to: /mnt/persist/www/simpleblog
+database_name: simpleblog
+database_user: simpleblog
+project_slug: simpleblog
+domain_stage: stage.SimpleBlog.com
+domain_prod: SimpleBlog.com

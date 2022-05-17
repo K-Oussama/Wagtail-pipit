@@ -1,0 +1,4 @@
+User-agent: *
+Sitemap: http://SimpleBlog.com/wt/sitemap.xml
+Disallow: /wt/admin/
+Disallow: /wt//cms/
